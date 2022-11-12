@@ -1,0 +1,12 @@
+.editForm{
+    width: 400px;
+    position: fixed;
+    z-index: 444;
+    padding: 20px;
+    margin-left: 50%;
+    /* transform: translate(-50%, -50%); */
+    /* transform: translate(-125%, -50%); */
+    
+    transform: translate(-50%, 50%);
+
+}

@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Iphone 12 Pro max",
+      "price": "1200",
+      "category": "iphone",
+      "img": "./img/108883-anaaa_large.webp"
+    },
+    {
+      "id": 2,
+      "productName": "Samsung S9",
+      "price": "1200",
+      "category": "samsung",
+      "img": "./img/samsun.webp"
+    },
+    {
+      "id": 3,
+      "productName": "huawei p30 pro",
+      "price": "200",
+      "category": "huawei ",
+      "img": "./img/hwawi.jpg"
+    },
+    {
+      "productName": "shawmi note 9 pro",
+      "category": "shawmi ",
+      "price": "400",
+      "img": "./img/sawai.webp",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Manto",
+      "img": "./img/sal.png"
+    },
+    {
+      "id": 2,
+      "categoryName": "Sal",
+      "img": "./img/image-1661764300447.png"
+    },
+    {
+      "id": 3,
+      "categoryName": "Bone",
+      "img": "./img/image-1661764119221.png"
+    },
+    {
+      "id": 4,
+      "categoryName": "Gomlek",
+      "img": "./img/image-1662051576274.png"
+    }
+  ]
+}
